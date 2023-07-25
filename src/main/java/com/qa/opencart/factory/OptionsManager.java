@@ -13,7 +13,7 @@ public class OptionsManager {
 	private ChromeOptions co;
 	private FirefoxOptions fo;
 	private EdgeOptions eo;
-	private SafariOptions so;
+
 	
 	public OptionsManager(Properties prop) {
 		this.prop = prop;
