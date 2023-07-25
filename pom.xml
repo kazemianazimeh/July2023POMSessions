@@ -124,8 +124,9 @@
 					<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
 					<suiteXmlFiles>
 						<suiteXmlFile>
-							src/test/resources/testrunners/testng_regression.xml</suiteXmlFile>
+							src/test/resources/testRunners/testNG-Regression.xml
 						<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
+						</suiteXmlFile>
 					</suiteXmlFiles>
 
 					<argLine>
